@@ -1,1 +1,3 @@
-# Kartavya2
+# Kartavya
+
+For Societies and NGO's
