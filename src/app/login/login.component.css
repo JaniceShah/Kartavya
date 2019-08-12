@@ -1,0 +1,13 @@
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+
+  body{
+    background: url('https://images.pexels.com/photos/1166643/pexels-photo-1166643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size:cover;
+    min-height:100vh;
+  }
+  form{
+    margin-left: 10px;
+  }
